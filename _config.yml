@@ -1,0 +1,28 @@
+name: Catch Light Studios
+favicon: null
+layout_spectrum: 0.02698132931254804
+typography_spectrum: 0.041813180316239595
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9848856593016535
+  lightness: 0.6972153265960515
+  saturation: 0.2940715146251023
+  rhythmicContrast: 0.6876976636704057
+purpose: []
